@@ -4,10 +4,10 @@ import streamlit as st
 st.set_page_config(page_title="Jeerasak Ananta", page_icon="🔱")
 
 # Title
-st.title("🔱 Whoami")
+st.title("🐲 Whoami 🐲")
 
 # Introduction
-st.subheader("I'm Jeerasak Ananta (Game)")
+st.subheader("I'm saran somprasong (Game)")
 st.write("""
 - 2022 - Present 🧑 Student in Computer Science [CS RMUTL NAN](https://nan.rmutl.ac.th/)
 - 2024 - SuperAI Engineer Season 4
